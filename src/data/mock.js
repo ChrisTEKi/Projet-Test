@@ -1,0 +1,10 @@
+export const mockProducts = [
+  { id: 1, name: "Lampe de Sol Industrielle", price: 89.99, image: "https://placehold.co/400x400/FF8C00/ffffff?text=Lampe+Moderne", category: "Luminaires", rating: 4.5, description: "Un design épuré pour un intérieur contemporain. Offre un éclairage ambiant doux et réglable, parfait pour les soirées de lecture." },
+  { id: 2, name: "Drone Pliable 4K", price: 349.00, image: "https://placehold.co/400x400/4F46E5/ffffff?text=Drone+4K", category: "Technologie", rating: 4.8, description: "Capturez le monde d'en haut avec une stabilité incroyable. Compact, facile à piloter et doté d'une autonomie de 30 minutes." },
+  { id: 3, name: "Vase en Céramique Tressée", price: 29.50, image: "https://placehold.co/400x400/10B981/ffffff?text=Vase+Céramique", category: "Décoration", rating: 4.2, description: "Artisanat malgache, touche minimaliste. Pièce unique faite à la main, ajoutant une texture organique et apaisante à votre étagère." },
+  { id: 4, name: "Ensemble Couteaux de Chef (5 pcs)", price: 129.99, image: "https://placehold.co/400x400/EF4444/ffffff?text=Couteaux+Chef", category: "Cuisine", rating: 4.9, description: "Acier inoxydable de haute qualité pour une coupe parfaite. Le set comprend un couteau à pain, un couteau utilitaire, un couteau d'office, un Santoku et un couteau de chef." },
+  { id: 5, name: "Fauteuil Suspendu en Rotin", price: 250.00, image: "https://placehold.co/400x400/7E3AF2/ffffff?text=Fauteuil+Rotin", category: "Jardin", rating: 4.6, description: "Un cocon de détente pour votre terrasse ou salon. Résistant aux intempéries et livré avec un coussin moelleux en coton biologique." },
+  { id: 6, name: "Tapis Géométrique en Laine", price: 99.99, image: "https://placehold.co/400x400/F59E0B/ffffff?text=Tapis+Géométrique", category: "Décoration", rating: 4.4, description: "Ajoutez de la chaleur et du style à n'importe quelle pièce. Fait de laine vierge, il est naturellement résistant aux taches et très doux sous les pieds." },
+];
+
+export const mockCategories = ["Décoration", "Technologie", "Luminaires", "Cuisine", "Jardin", "Mode"];
