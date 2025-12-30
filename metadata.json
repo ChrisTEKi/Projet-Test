@@ -1,0 +1,9 @@
+{
+  "name": "Domygo Market",
+  "description": "La plus grande marketplace de Madagascar. Tech, Alimentation, Mode et Services. Livraison rapide et paiement sécurisé par Mobile Money et Domygo Wallet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
